@@ -1,0 +1,24 @@
+/*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}*/
+
+body{
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    margin: auto;
+}
+
+.logo{
+    padding-top: 1rem;
+}
+span{
+    font-size: 2rem;
+    color: white;
+}
+img{
+    vertical-align: middle;
+}
