@@ -22,3 +22,8 @@ span{
 img{
     vertical-align: middle;
 }
+
+.unreadStyle{
+    border: black;
+    border-radius: 5%;
+}
